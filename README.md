@@ -57,6 +57,8 @@ module.exports = Knex;
 ### Seed Setup
 
 * [ ] Follow the instructions [here](https://knexjs.org/#Seeds-CLI) to generate a seed file named `'todo_seed'`.
+
+knex make todo_seed
 * [ ] Within your seed file modify the boilerplate function and insert 2 or 3  todo tasks.
 
 * [ ] Follow the instructions [here](https://knexjs.org/#Seeds-CLI) to run your seed file to insert your seed data.
